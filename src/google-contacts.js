@@ -16,7 +16,7 @@ import {
   extractPhoneNumberFromEntry,
 } from "./utils";
 
-const SCOPE = "https://www.googleapis.com/auth/contacts.readonly";
+const SCOPE = "https://www.googleapis.com/auth/contacts.readonly https://www.googleapis.com/auth/contacts.other.readonly";
 // const MAX_RESULTS = '999' // TODO Make this parametable or paginate
 
 class GoogleContacts extends Component {
