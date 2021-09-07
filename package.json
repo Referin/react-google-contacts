@@ -1,5 +1,5 @@
 {
-  "name": "react-google-contacts",
+  "name": "react-google-contacts-and-other",
   "version": "1.0.1",
   "description": "A Google Button to import user's gmail contacts",
   "main": "dist/google-contacts.js",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwent/react-google-contacts.git"
+    "url": "git+https://github.com/Referin/react-google-contacts.git"
   },
   "keywords": [
     "react",
@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/kwent/react-google-contacts/issues"
   },
-  "homepage": "https://github.com/kwent/react-google-contacts",
+  "homepage": "https://github.com/Referin/react-google-contacts",
   "dependencies": {
     "@types/react": "17.0.0",
     "buffer": "6.0.3",
